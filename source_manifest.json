@@ -1,0 +1,344 @@
+{
+  "version": "0.1.0",
+  "entry": "experiment/agb_node_reduction/historical_case.py",
+  "frozen_A7_entry_sha256": "392b4091d91a74a735b5d698581fc1276263f69fd86a93b621f8beec11912ea9",
+  "files": [
+    {
+      "path": "experiment/10.14/baseline.py",
+      "sha256": "352f4a9e03d57dde7a53a24c09012ffaae02d03a7afd6f256bb751eebd54d1aa",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/agent_speedup.py",
+      "sha256": "5618cafc0ca1167c968d2ba3935082240f07fe0f6db5d1aa6f81f5d00afcdefa",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/aggregate_results.py",
+      "sha256": "7ddacb969d1fc3c15d253b5f3280775aec2627ae6cff39270cdde4380623fd6b",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/compression.py",
+      "sha256": "dfccf6c76206703727400da2dcfef3024ed00a576fbd09a2d9dd5ea24ded22a6",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/dataset_schema.py",
+      "sha256": "7ea255a511b6d55a4a4d90cfd98caf773f368325f1275e9f6629ab077396d2e7",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/dynamic_agent.py",
+      "sha256": "dc9e1e711a5d4f06c9e752ce4402a04771eed1e023c894ae1729fd62f8624c02",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/dynamic_rp.py",
+      "sha256": "64a1e0b4c2deeff907008d170f78688b27d25f0d5f6cbe44f3765ccd53fa106d",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/eco_calibration.py",
+      "sha256": "ec9bd94efce252811141ac77b706258cf6587b6c2af405888b4d1090001fcb2e",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/metrics.py",
+      "sha256": "f53ed19a6d2b601bf53ea2d84dd0bda33f2a36e606860f7f632de55553866e52",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/normalize_public_sources.py",
+      "sha256": "04463f342f8feabc6b1746a3a40bf82bc0091dafafff98f5a4e98f94c374f351",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/prepare_grouped_tabular.py",
+      "sha256": "475c44c1d756e99268280b453f263f011723ee5a215032186e0eb3bb4e6014c3",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/public_models.py",
+      "sha256": "b06ae55ec119e62ccf7c64e61d3b74db4f4eac364fdbfa032196cc62b2101d68",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/run_case.py",
+      "sha256": "110fd67b1b31cfb48f0692bb2af380b81fbf81550a29209d5fe26aa4289e1ae8",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/run_compression_case.py",
+      "sha256": "3cc8540225e8f40c98e8d2f51157894ea7cbc1a30a049518325ea92d57ed3e7c",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/run_transfer_case.py",
+      "sha256": "85e940da35587d2730ec984dd96e82e32fbbee1d85b0b08b2ab3e97196ebc6de",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/selection_methods.py",
+      "sha256": "44ce093a2549e0597c6ae76a1189553abe7a415914ecd3303e43822ea63b6142",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/splitting.py",
+      "sha256": "6060dc8790e0470ee7831049b11d5c1728fc688c78281ad65bd4b3efa3ddb960",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/training.py",
+      "sha256": "03aa61311ab6198f0d173a7f304e19c5933c91abce3a0adb9a49ea20d404682b",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/evaluation/versioning.py",
+      "sha256": "5ad9ac9134737d5181c41aa8ad8f50587484e9a168d8a52a179a8c4b87c3e55d",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/gpu_exact_case.py",
+      "sha256": "79c0f07938d4b2a12a9eb7b2eb5a1aea517603c8b7861a9de67a92bbf9093b3b",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/historical_case.py",
+      "sha256": "392b4091d91a74a735b5d698581fc1276263f69fd86a93b621f8beec11912ea9",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/historical_compression_case.py",
+      "sha256": "1ee92be169f167617084e26d459903cf2e5621260063dd87815e82feaaa8ff48",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/historical_compression_rate_curve_case.py",
+      "sha256": "0f5e380ffd0064897a3139f3186b8091d76c8a22aaecdde605623293f3170812",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/historical_exact_k_curve_case.py",
+      "sha256": "d067b11c818869da22ced6edc5b1f68c8a0af39e9d84b7cda751f34a20f62dbd",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/historical_exact_k_relaxed_case.py",
+      "sha256": "bf1fb5c593ae9e87b1fc6acb0f431b9339d8055cc7c79573a110487270e8f2bf",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/historical_external_case.py",
+      "sha256": "802a7c905fc95bf4a80df5ea2e01c3e09023e55ea2cd4fb289fd00af6128b32d",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/physical_baseline_v2.py",
+      "sha256": "7bac1ad1bb51d14f619117ace8a15d3a1a7e619605978ef31b6cf177d1d2d142",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/physical_factorial_v2.py",
+      "sha256": "89c467730f932bffde9878ce447b6843bffc65e655d171e74b37f0ff8ed19c93",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_adapt_combine.py",
+      "sha256": "3268ca34dcc4d1ae84dd3ebabeb1cb2e37b5a7baa2d75c0ab370f90d9dfea80b",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_agop.py",
+      "sha256": "177ef9bf1b4e630623579ee8d10a12a6a2cc86b0300af54ef9ffec59a7262f4d",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_angle_compensation.py",
+      "sha256": "481e2744be4d50a2628a5887d44435ea110fd6f25d00dd807c6de7de842605a6",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_backbone_curvature.py",
+      "sha256": "103926fa3ac8c8b935387ee5c31ec7d390f4e6fa0e5bed75c93d4e4a3e1dd459",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_balance.py",
+      "sha256": "77ed97ba6340dcd2616a35de5f36eb6cc3ae351d4d5d88466136ddb3ebf1812a",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_bilevel.py",
+      "sha256": "32cb20a0ea775ebffa0fa203daa70b0ae1d6b1edc6f81df7216de66ff85bfe8e",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_coupled.py",
+      "sha256": "78e3cdc2e95d6bad86eac2727e418ab05901a9d3b1b9032b84d0a11fa6d53d75",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_functional_conformal.py",
+      "sha256": "c887a38e34e65e167bd793d94a560fd73a7949a5cd5cefa975da75af9c91c84b",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_graphsage.py",
+      "sha256": "ef612009dc19984a02ccf4f9ae8386fe839cb3829adc62d5f7339dc7abf0eb90",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_latent.py",
+      "sha256": "43ac014a176a89f0d32fc555c9dc72a061a3967761e30761cfbcb16933ac78b7",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_layer.py",
+      "sha256": "b4708750065449e031412102a1fccf0467633ea7df3c69f027eafbe1faf0b0f9",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_local_egop.py",
+      "sha256": "d824ae7c74bf0912c01bc1b3cf7f7eae57bb67a253c72276fe9b4e72a4e1387f",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_membership.py",
+      "sha256": "a44ec9a3ae44a7b423bff225970448b187e30b45e6988b7404978dcad1e0ae63",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_numeric_message.py",
+      "sha256": "65e65a48017e77745406d3182a25715189f0114a467df8e002904cb435ecfc7b",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_ordinal_field.py",
+      "sha256": "ba4229cc8aea664a5a8e59b1153e1104ceaf925d657268a49f80c3594fe7c1a7",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_positive_distance.py",
+      "sha256": "44b9d6eaac3f5731bd07b24f11f7241b3c470301a2c4bac7c11c1eba067a01ca",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_precision.py",
+      "sha256": "9fc9b6e1d8df538eb04078f6d1691e6573b38f5838cecb6d8387d30ff9da9c79",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_readout_sphere.py",
+      "sha256": "4525dbfafded9de3190a7c66187813f48434a730c0df4b196eb9a3fe8d52f4b8",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_refinement.py",
+      "sha256": "25f39111d9fefcc9806ec1a00909a7049e32bf0c9276490605adde92dc947219",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_soft_topk.py",
+      "sha256": "047fb1a9eee4b5cefd88d98da8e1d2c56cf8a888057ce9c948eb422adaef05b8",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_spherical_attribution.py",
+      "sha256": "51e8bef97bf946aabe5dc278e0284d62ca9a62631db22d9decc15080a400f5bc",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_spherical_trace.py",
+      "sha256": "914f92f558ff974e236fd367ad8ceb5e0ecb56746b4becf9c9e79301b6896aa9",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_stiefel.py",
+      "sha256": "d062a0565fa359946e883688c8b005938cf390262e5eacabf01ba06c87d92d36",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_subspace.py",
+      "sha256": "d570bc94cfc76270361396928f3c2a39a9053517c247e687aadb37db28cee6bd",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_transport_gap.py",
+      "sha256": "0608e40401f198f5034946fe7b7a974814be4e9187d7a7fe27561faab5d55588",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/relation_unroll.py",
+      "sha256": "0f958b12a93c9af8ae29f1a8beef054accf90ff668176423da7f3c1b9a27d29e",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_agent_reference.py",
+      "sha256": "3a84fda8c5e765ba8ccf7dcd4f834c9c8505fd48639bcb6eba3b9dd862bb397e",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_coarse_agent.py",
+      "sha256": "5a74e450e1aa67f3d2f91736fef252f62127dcbca846ed45b580449176e80841",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_conservative_agent.py",
+      "sha256": "2e87db8d7d61a7fb468f4d02ca4c0075ee3ccd5e6f5c3cd8c19bdae47ff78152",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_current_agent.py",
+      "sha256": "eeddc7d18933f2cdac1b1acade6f933194872596c8c82d50009936a4133f70dd",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_fidelity_agent.py",
+      "sha256": "a076328fab7f1c9f7e8ef5e2b3b298b13333fa68bcef6062a4d7432c6663bc84",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_loo_agent.py",
+      "sha256": "12a3d981b6fe7b03b4835b248f826b3d814c160354c269fd954a6f47f3be73cf",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_loo_reference.py",
+      "sha256": "fc29273855c228b8a80f6d200e11ce4bed5b5cf58783fa6bcd3715dcf6618250",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_message_agent.py",
+      "sha256": "b08188eec3acc776d27235499afe6d4be2bbd55baf514a8246b4d8ebacd40c58",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_prediction_agent.py",
+      "sha256": "cf6b6ed9cdd1e8a08f6eb166d646fd288b9bdb70be60416af4ea7ccd5653b5ab",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_stop_agent.py",
+      "sha256": "27ff25f6c1b0a3b2877c04cae3e406b279368272330d31af1ef0ef6dcb0f2a37",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/rp_value_agent.py",
+      "sha256": "736f3c97418cdd950b34c4cb271a87672514c085d0c3dab48080c3c3b6596089",
+      "executable_source_unchanged": true
+    },
+    {
+      "path": "experiment/agb_node_reduction/runs/CARBON-RP-AGENT-PREDICTION-001/cache_prototype.py",
+      "sha256": "b783f4e178235b0520bcdc499975656f71595510f0ffeda17e652e30baa470bf",
+      "executable_source_unchanged": true
+    }
+  ],
+  "data_or_weights_included": false,
+  "source_implementations_unchanged": true
+}

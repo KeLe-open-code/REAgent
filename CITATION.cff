@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the REAgent repository and associated paper."
+type: software
+title: REAgent
+version: 0.1.0
+date-released: 2026-11-08
+repository-code: "https://github.com/KeLe-open-code/REAgent"
+license: MIT
+authors:
+  - family-names: Ke
+    given-names: Le
+  - family-names: Chen
+    given-names: Xixin
+  - family-names: Zhou
+    given-names: Guoxiong
+  - family-names: Zhu
+    given-names: Xueyan
+  - family-names: Liu
+    given-names: Guoqing
